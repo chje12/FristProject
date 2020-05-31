@@ -3,6 +3,7 @@
  * https://github.com/facebook/react-native
  *
  * test
+ * 주석 추가
  * @format
  * @flow strict-local
  */
